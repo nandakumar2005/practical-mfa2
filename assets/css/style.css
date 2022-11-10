@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family: "inter";
+}
+.header__logo{
+    width: 80px;
+    height: 50px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+     margin-left:40px ;
+     margin-right: 100px;
+}
+.headerlist{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    list-style: none;
+}
+.header ul a{
+     text-decoration: none;
+     padding-left: 30px;
+     font-weight: bold;
+     color: gray;
+     font-size: 17px;
+     margin-right: 50px;
+}
+.header ul li a:hover{
+    color:rgb(215, 65, 11);
+    transition: .2s;
+}
+.website_back{
+   margin-left: 90px;
+}
+.primary{
+    font-size: 50px;
+    font-weight: bold;
+    width: 300px;
+    padding-left: 90px;
+}
+.menu1{
+    display: flex;
+}
+.menu_list p{
+  width:400px;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 90px;
+}
+.menu p{
+    color: gray;
+    font-size: 17px;
+}
+.btn{
+    margin-left: 90px;
+    margin-top: 35px;
+    border:2px solid rgb(210, 84, 39);
+    width:150px;
+    height: 40px;
+    background-color: rgb(215, 65, 11);
+    color: white;
+    font-weight: bold;
+    border-radius: 2px;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+}
+.btn:hover{
+    background-color:rgb(62, 56, 56);
+    transition: .2s;
+}
+.read{
+    margin-left: 50px;
+    border: 2px solid black;
+    margin-top: -325px;
+    width:320px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    height:480px;
+    background-color: rgb(21, 19, 19);
+}
+.read h1{
+    font-size: 40px;
+    color: rgb(237, 199, 104);
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.read h2{
+    font-size: 22px ;
+    padding-bottom:14px ;
+    color: white;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.read h2:hover{
+    color: rgb(215, 65, 11);
+    transition: .2s;
+}
+.read1{
+    font-size: 17px;
+    color: rgb(245, 236, 236);
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgb(200, 193, 193);
+}
+.read2{
+    font-size: 17px;
+    color: rgb(245, 236, 236);
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgb(200, 193, 193);
+}
+.read3{
+    font-size: 17px;
+    color: rgb(200, 193, 193);
+}
+.end{
+    display: flex;
+}
+.end1{
+    width:100px;
+   padding-left:100px;
+}
+.end2{
+    width:100px;
+}
+.end3{
+    width:100px;
+}
+.end1_list{
+    display: flex;
+}
+.end2_list{
+    display: flex;
+}
+.end3_list{
+    display: flex;
+}
+.e1{
+    padding-left: 18px;
+    width:230px;
+    margin-right: 40px;
+}
+.e2{
+    padding-left: 30px;
+    width:240px;
+    margin-right: 70px;
+}
+.e3{
+    padding-left: 30px;
+    width:230px;
+    margin-right: 50px;
+}
+.end h1{
+    color: gray;
+}
+.end h3:hover{
+    color: rgb(215, 65, 11);
+    transition: .2s;
+}
+.end h3{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+   }
+.end p{
+    color: gray;
+    font-size: 15px;
+}
+white_check_mark
+fire
+raised_hands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Message Boobalan Ravichandran
+
+
+
+
+
+
+
+
